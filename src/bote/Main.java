@@ -37,6 +37,7 @@ public class Main {
             
         }
     }
+    
 
     private static void opera_pinta(Bote burguer, int metros) {
         /*Vamos a pintar 2 metros, como hay sufuiciente pintura la operación tendrá éxito y se
